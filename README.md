@@ -19,3 +19,7 @@ The app can check the weather forecast of a city.
 -   run the command npm isntall
 -   run the command php artisan migrate
 -   run the command npm run dev
+
+## 3rd Party APIs
+
+-   https://www.weatherapi.com/docs/
