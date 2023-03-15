@@ -14,6 +14,7 @@ The app can check the weather forecast of a city.
 ## Installation Instruction
 
 -   Copy and paste the .env.example and name it .env
+    - test
 -   In .env file, configure the database connection, paste your github client id and secret and the url and api key of 3rd party weather
 -   run the command composer install
 -   run the command npm isntall
